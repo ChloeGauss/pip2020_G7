@@ -1,6 +1,6 @@
 # Projet Inter-promo 2021_G7
 
-Groupe 2 private repository : visualisation
+Groupe 7 private repository : visualisation
 
 # Environnement
 
