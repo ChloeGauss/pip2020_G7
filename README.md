@@ -18,6 +18,8 @@ Il y aura pour chaque groupe un responsable de M2 référent à qui vous pourrez
 Chaque personne possèdera son propre fichier pour travailler. Il ne faut modifier QUE son propre fichier. Pour s'assurer d'avoir tous les outils nécessaire, je vous invite à cloner le repo en entier :
 
 Par ligne de commande : git clone https://github.com/vincentnam/ProjetInterpromo2020G8.git
+Par interface graphique : cloner l'adresse
+
 NE PAS TOUCHER AUX AUTRE FICHIERS
 
 Charte qualité :
