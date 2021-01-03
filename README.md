@@ -17,8 +17,8 @@ Il y aura pour chaque groupe un responsable de M2 référent à qui vous pourrez
 # Organisation :
 Chaque personne possèdera son propre fichier pour travailler. Il ne faut modifier QUE son propre fichier. Pour s'assurer d'avoir tous les outils nécessaire, je vous invite à cloner le repo en entier :
 
-Par ligne de commande : git clone https://github.com/vincentnam/ProjetInterpromo2020G8.git
-Par interface graphique : cloner l'adresse
+Par ligne de commande : git clone https://github.com/ChloeGauss/pip2021_G7
+Par interface graphique : cloner l'adresse https://github.com/ChloeGauss/pip2021_G7
 
 NE PAS TOUCHER AUX AUTRE FICHIERS
 
